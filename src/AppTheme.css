@@ -1,0 +1,29 @@
+body {
+  display: flex;
+  width: 100vw;
+  height: 100vh;
+  flex-direction: column;
+}
+
+.header {
+  text-align: center;
+  background-color: rgb(27, 27, 80);
+  color: white;
+  font-size: 32px;
+}
+
+div {
+  font-size: 18px;
+}
+
+button {
+  margin-bottom: 32px;
+  font-size: 18px;
+}
+
+.footer {
+  text-align: center;
+  background-color: rgb(27, 27, 80);
+  color: white;
+  font-size: 32px;
+}
